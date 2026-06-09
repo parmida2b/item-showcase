@@ -10,7 +10,7 @@ A responsive product gallery built with React.js and CSS.
 ## 📸 Screenshots
 | Desktop View | Hover State |
 | :---: | :---: |
-| ![Desktop](./screenshots\p1.png) | ![Hover](./screenshots\p2.png) |
+| ![Desktop](./screenshots/p1.png) | ![Hover](./screenshots/p2.png) |
 
 
 ## 🛠️ Tech Stack
